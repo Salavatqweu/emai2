@@ -2,6 +2,12 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-05-10 00:24 IR
+- 🎬 [Poco_X8_Pro_Vs_Galaxy_A57_Speed_Test.mp4](https://github.com/Salavatqweu/emai2/raw/main/dl/Poco_X8_Pro_Vs_Galaxy_A57_Speed_Test.mp4) `10.2MB`
+
+---
+
+
 
 ### 📅 2026-05-09 11:21 IR
 - 📱 [WhiteDNS-Beta7-arm64-v8a.apk](https://github.com/ConfigWireguard/sandbox/raw/main/dl/WhiteDNS-Beta7-arm64-v8a.apk) `22.3MB`
